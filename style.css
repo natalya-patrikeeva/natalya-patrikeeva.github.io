@@ -4,6 +4,12 @@
   height: 800px;
   background-size: cover;
 }
+
+.main {
+	position: relative;
+	top: 180px;
+	text-align: center;
+}
 .natalya-patrikeeva-advice h1 {
 	color: #333;
   font-family: 'Raleway', sans-serif;
