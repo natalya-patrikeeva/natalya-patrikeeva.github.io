@@ -1,5 +1,9 @@
 /** Natalya's Style **/
-
+.jumbotron {
+  background:url('http://www.themusehotel.com/design/images/930-481/nyc-skyline.jpg') no-repeat center center fixed;
+  height: 800px;
+  background-size: cover;
+}
 .natalya-patrikeeva-advice h1 {
 	color: #333;
   font-family: 'Raleway', sans-serif;
