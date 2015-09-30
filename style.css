@@ -32,8 +32,9 @@ html,body {
 }
 
 .sub-main {
-  background-color: #333333;
-  color: #ffffff;
+  background-color: #ffffff;
+	border: 0.5px solid #333333;
+  color: #333333;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 18px;
@@ -41,6 +42,32 @@ html,body {
   padding: 16px 40px;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.advice {
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+.advice .col {
+  float: left;
+  width: 33%;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.advice h2 {
+	font-weight: 600;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+
+.advice p {
+	font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 50px;
+  margin-bottom: 40px;
 }
 
 .footer {
