@@ -23,19 +23,17 @@ html,body {
 }
 
 .main h1 {
-	color: #FFFFFF;
+	color: #ffffff;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 70px;
   margin-top: 0;
   margin-bottom: 80px;
-  text-transform: uppercase;
-
 }
 
 .sub-main {
   background-color: #333333;
-  color: #fff;
+  color: #ffffff;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 18px;
