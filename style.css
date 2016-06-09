@@ -5,7 +5,7 @@ html,body {
 }
 
 .jumbotron {
-  background:url('http://www.jetblue.com/img/vacations/destination/New-Orleans-960-x-420.jpg') no-repeat center center fixed;
+  background:url('') no-repeat center center fixed;
   height: 800px;
   background-size: cover;
 }
