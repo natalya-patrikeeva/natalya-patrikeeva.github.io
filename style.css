@@ -31,6 +31,12 @@ html,body {
   margin-bottom: 80px;
 }
 
+.main img {
+	border-radius: 4px;
+	display: block;
+	height: 200;
+}
+
 .sub-main {
   background-color: #ffffff;
 	border: 0.5px solid #333333;
