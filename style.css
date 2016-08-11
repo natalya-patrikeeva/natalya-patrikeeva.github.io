@@ -60,6 +60,8 @@ html,body {
 .advice img {
 	float: left;
 	display: block;
+	height: 33%;
+	width: 33%
 }
 
 .advice .col {
