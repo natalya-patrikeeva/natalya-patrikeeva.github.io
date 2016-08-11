@@ -57,6 +57,10 @@ html,body {
 	padding-bottom: 200px;
 }
 
+.advice img {
+	float: left;
+	display: block;
+}
 
 .advice .col {
   float: left;
