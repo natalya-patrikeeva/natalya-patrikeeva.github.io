@@ -32,8 +32,8 @@ html,body {
 }
 
 .main img {
-	border-radius: 4px;
-	display: block;
+	float: left;
+	top: 0.25 em;
 	height: 200;
 }
 
