@@ -72,7 +72,7 @@ html,body {
 }
 
 .advice .col img {
-	border-radius: 4px;
+	float: left;
 	display: block;
 }
 
