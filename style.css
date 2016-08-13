@@ -83,34 +83,34 @@ html,body {
   text-transform: uppercase;
 }
 
-.advice {
+.trio {
 	padding-top: 40px;
 	padding-bottom: 400px;
 }
 
-.advice img {
+.trio img {
 	height: 50%;
 	width: 50%
 }
 
-.advice .col {
+.trio .col {
   float: left;
   width: 33%;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
 
-.advice h2 {
+.trio h2 {
 	font-weight: 600;
   font-size: 23px;
   text-transform: uppercase;
 }
 
-.advice .col img {
+.trio .col img {
 	display: block;
 }
 
-.advice p {
+.trio p {
 	font-weight: 400;
   font-size: 25px;
   line-height: 40px;
@@ -118,9 +118,9 @@ html,body {
   margin-bottom: 40px;
 }
 
-.advice a {
+.trio a {
 	margin-right: 10px;
-	border: 0.5px solid #333333;
+	border: 0.5px solid #00BFFF;
 }
 
 .footer {
