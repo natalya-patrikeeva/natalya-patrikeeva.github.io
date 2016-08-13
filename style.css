@@ -18,6 +18,7 @@ html,body {
 .header img{
 	float: right;
 	height: 33%;
+	padding-right: 10px;
 }
 
 .jumbotron {
