@@ -44,11 +44,11 @@ html,body {
 
 .main h2 {
 	font-family: 'Raleway', sans-serif;
-  font-weight: 100;
-  font-size: 20px;
-	letter-spacing: 1.7px;
-  margin-top: 20;
-  margin-bottom: 50px;
+	font-weight: 400;
+  font-size: 25px;
+  line-height: 40px;
+  padding: 0 50px;
+  margin-bottom: 40px;
 }
 
 .main a {
