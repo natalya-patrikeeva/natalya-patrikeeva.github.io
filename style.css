@@ -7,8 +7,12 @@ html,body {
 .header {
   background-color: #333;
   color: #fff;
-	padding-top: 40px;
+	padding-top: 20px;
 	text-align: left;
+	font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+	padding-bottom: 5px;
 }
 
 .jumbotron {
