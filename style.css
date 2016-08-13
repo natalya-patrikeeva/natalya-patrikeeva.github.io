@@ -41,12 +41,14 @@ html,body {
   margin-top: 20;
   margin-bottom: 50px;
 }
-.main .col {
+.main .cent {
   float: center;
   width: 50%;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
+
+
 .main h2 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
