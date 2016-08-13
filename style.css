@@ -112,14 +112,14 @@ html,body {
 
 .trio p {
 	font-weight: 400;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 40px;
   padding: 0 0px;
   margin-bottom: 40px;
 }
 
 .trio a {
-	margin-right: 10px;
+	margin-right: 15px;
 	border: 0.5px solid;
 	color: #1E90FF;
 }
