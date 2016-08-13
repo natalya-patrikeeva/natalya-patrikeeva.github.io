@@ -42,7 +42,7 @@ html,body {
   margin-bottom: 50px;
 }
 .main .cent {
-  float: inherit;;
+  float: none;;
   width: 50%;
   font-family: 'Raleway', sans-serif;
   text-align: center;
