@@ -34,6 +34,10 @@ html,body {
 .main a {
 	margin-right: 10px;
 	border: 0.5px solid #333333;
+	font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1.3px;
 }
 
 .main img {
