@@ -19,8 +19,6 @@ html,body {
 	float: right;
 	top: 0.25 em;
 	height: 33%;
-	display: inline-block;
-	position: relative;
 }
 
 .jumbotron {
