@@ -41,12 +41,6 @@ html,body {
   margin-top: 20;
   margin-bottom: 50px;
 }
-.main .cent {
-  float: none;;
-  width: 50%;
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
-}
 
 
 .main h2 {
@@ -101,7 +95,7 @@ html,body {
 
 .advice .col {
   float: left;
-  width: 50%;
+  width: 40%;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
